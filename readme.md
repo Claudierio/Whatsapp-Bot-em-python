@@ -1,1 +1,2 @@
-Para o bot funcionar perfeitamente, verifique se a versão do chromedriver está na mais recente.
+OBS: Para o bot funcionar, verifique se a sua versão do chromedriver está atualizada.
+
